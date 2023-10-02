@@ -16,29 +16,49 @@ A API permite realizar as seguintes operações:
 - Consultar saldo da conta bancária
 - Emitir extrato bancário
 
+# Como executar
+
+### Pré-requisitos
+
+  ◻️ Node.js instalado em sua máquina
+  
+  ◻️ npm ou yarn para gerenciamento de pacotes
+  
+  ◻️ Git
+
+  ◻️ VsCode
+  
+
 ## Como Executar o Projeto
 Siga os passos abaixo para executar este projeto em sua máquina local:
 
-### Pré-requisitos
-	◻️ Node.js instalado em sua máquina
-	◻️ npm ou yarn para gerenciamento de pacotes
-	◻️ Git (opcional, para clonar o repositório)
 
 ### Passos de Execução
 Clone este repositório (ou faça o download do código-fonte como arquivo ZIP):
-
-git clone https://github.com/seu-usuario/api-banco-digital.git
+```bash
+git clone git@github.com:danieleolli/projeto-api-bancodigital.git
+```
 
 Navegue até o diretório do projeto:
+```bash
 cd api-banco-digital
+```
 
 Instale as dependências do projeto:
+```bash
 npm install
+```
 
 Inicie o servidor da API:
-npm start
+```bash
+npm run dev
+```
 
-A API estará disponível em http://localhost:8000.
+A API estará disponível em:
+```bash
+http://localhost:8000
+```
+
 
 ## Projeto em Funcionamento
 ![cadastrar-conta](https://github.com/danieleolli/projeto-api-bancodigital/assets/137204170/dbb7c057-87f0-467f-9c3f-7fa29f2a3ae2)
