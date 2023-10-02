@@ -1,7 +1,7 @@
 # API BANCO DIGITAL
 
 ## Descrição do Projeto
-Este é um projeto de API para um Banco Digital que permite a criação, gestão e consulta de contas bancárias. Esta API é o primeiro passo de um projeto maior, com funcionalidades adicionais planejadas para o futuro. A API é construída seguindo os princípios RESTful e armazena os dados em memória, com foco na segurança e na integridade dos dados.
+Este é um projeto de API para um Banco Digital que permite a criação, gestão e consulta de contas bancárias. Esta API é o primeiro passo de um projeto maior, com funcionalidades adicionais planejadas para o futuro. A API é construída seguindo os princípios RESTful e armazena os dados em memória.
 
 ## Funcionalidades da API
 A API permite realizar as seguintes operações:
